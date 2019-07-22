@@ -1,0 +1,35 @@
+[
+  {
+    "text": "apple",
+    "frequency": "20"
+  },
+  {
+   "text": "banana",
+    "frequency": "45"
+  },
+  {
+    "text": "potato",
+    "frequency": "10"
+  },
+  {
+    "text": "grape",
+    "frequency": "50"
+  },
+  {
+    "text": "pineapple",
+    "frequency": "60"
+  },
+  {
+    "text": "watermelon",
+    "frequency": "40"
+  },
+  {
+    "text": "melon",
+    "frequency": "50"
+  },
+  {
+    "text": "strawberry",
+    "frequency": "1000"
+  }
+]
+
